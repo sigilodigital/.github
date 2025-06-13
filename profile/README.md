@@ -2,7 +2,7 @@
 
 ## Soluções Completas em Tecnologia da Informação
 A Sigilo.Digital é uma empresa especializada em desenvolvimento de software, oferecendo soluções personalizadas e padronizadas
-para atender às diversas necessidades do mercado. Sua expertise abrange desde a criação sistemas customizáveis e sob encomenda 
+para atender às diversas necessidades do mercado. Sua expertise abrange desde a criação de sistemas customizáveis e sob encomenda 
 até o desenvolvimento de softwares não-customizáveis (prontos para uso).
 
 Além do desenvolvimento, a Sigilo.Digital atua de forma abrangente na área de consultoria em tecnologia da informação, auxiliando 
